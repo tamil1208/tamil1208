@@ -206,24 +206,6 @@ class Tamilarasan:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamil1208&theme=radical&hide_border=true" width="100%"/>
 <br><br>
 
-<!-- Animated snake eating your contribution graph — see setup steps below -->
-<img src="https://raw.githubusercontent.com/tamil1208/tamil1208/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-🐍 Want the animated snake above to work? It needs a one-time GitHub Actions setup:
-
-
-In your tamil1208/tamil1208 repo, go to Actions → New workflow → set up a workflow yourself.
-Name it snake.yml and paste in the Platane/snk action config (generates the snake SVG from your real contribution graph on a schedule).
-Commit it — the Action will run automatically and output the SVG to an output branch, which the image link above already points to.
-Enable Read and write permissions for the workflow under Settings → Actions → General → Workflow permissions.
-
-
-Until that's set up, the static graph above still works fine on its own.
-
-
-
-
 <div align="center">
 ---
 
