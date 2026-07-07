@@ -214,7 +214,7 @@ class Tamilarasan:
 
 > 🐍 **Want the animated snake above to work?** It needs a one-time GitHub Actions setup:
 > 1. In your `tamil1208/tamil1208` repo, go to **Actions → New workflow → set up a workflow yourself**.
-> 2. Name it `snake.yml` and paste in the [Platane/snk](https://github.com/Platane/snk) action config (generates the snake SVG from your real contribution graph on a schedule)
+> 2. Name it `snake.yml` and paste in the [Platane/snk](https://github.com/tamil1208/tamil1208/blob/main/snake.yml) action config (generates the snake SVG from your real contribution graph on a schedule)
 > 3. Commit it — the Action will run automatically and output the SVG to an `output` branch, which the image link above already points to.
 > 4. Enable **Read and write permissions** for the workflow under **Settings → Actions → General → Workflow permissions**.
 >
