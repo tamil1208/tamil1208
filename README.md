@@ -1,14 +1,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=TAMILARASAN%20P&fontSize=45&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Data%20Analyst&descAlignY=68&descSize=16" width="100%"/>
-
- <img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+ML+%26+AI+solutions;Turning+data+into+decisions;Explainable+AI+%7C+Predictive+Modeling+%7C+Dashboards;Always+learning%2C+always+shipping+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=0891B2&vCenter=true&size=20"/>
-
  
 <img src="https://avatars.githubusercontent.com/u/174262344?v=4" width="120" style="border-radius:50%" />
 
 ### 📍 Final-year CSE @ SRM Institute of Science &amp; Technology, Chennai
 *I build AI-based applications, ML pipelines and data dashboards — then ship them.*
+ <img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+ML+%26+AI+solutions;Turning+data+into+decisions;Explainable+AI+%7C+Predictive+Modeling+%7C+Dashboards;Always+learning%2C+always+shipping+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=0891B2&vCenter=true&size=20"/>
 
 <img src="https://komarev.com/ghpvc/?username=tamil1208&label=Profile%20Views&color=6a5ce6&style=flat" />
 <img src="https://img.shields.io/github/followers/tamil1208?label=Followers&style=flat&color=6a5ce6" />
