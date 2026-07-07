@@ -2,7 +2,9 @@
 
 <img src="./banner.jpg" width="100%"/>
 
-### 📍 Final-year CSE @ SRM Institute of Science &amp; Technology, Chennai
+<img src="https://avatars.githubusercontent.com/u/174262344?v=4" width="320" style="border-radius:150%" />
+
+###  B.Tech CSE Graduate (2026) SRM Institute of Science &amp; Technology, Chennai
 *I build AI-based applications, ML pipelines and business-ready data dashboards — then ship them.*
 
 <img src="https://komarev.com/ghpvc/?username=tamil1208&label=Profile%20Views&color=6a5ce6&style=flat" />
