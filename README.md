@@ -200,13 +200,7 @@ class Tamilarasan:
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamil1208&theme=redical&hide_border=true" width="100%"/>
 </div>
-📈 Contribution Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamil1208&theme=radical&hide_border=true" width="100%"/>
-<br><br>
-
-<div align="center">
 ---
 
 <div align="center">
