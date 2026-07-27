@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="./banner.jpg" width="100%"/>
-
 <img src="https://avatars.githubusercontent.com/u/174262344?v=4" width="320" style="border-radius:150%"  />
 
 ###  B.Tech CSE Graduate (2026) SRM Institute of Science &amp; Technology, Chennai
